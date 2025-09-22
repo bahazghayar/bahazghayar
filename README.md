@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am an Aspiring Data Analyst with experience as a Customer Service Associate at Amazon and a background in mechanical engineering. My professional journey has strengthened my problem-solving, communication, and customer-centric skills, which I am now combining with technical expertise in data analysis.
+
+I have built hands-on experience with Excel, SQL, Python, and Tableau, working on projects in exploratory data analysis, predictive modeling, and dashboard creation. I am passionate about using data to uncover insights that improve decision-making, efficiency, and customer experience.
+
+Currently, I am focused on transitioning into a full-time data analytics or business intelligence role, where I can leverage both my customer-facing experience and analytical skills to deliver impact.
+
 <!--
 **bahazghayar/bahazghayar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
